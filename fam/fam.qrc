@@ -1,0 +1,10 @@
+<RCC>
+    <qresource prefix="/fam">
+        <file>FloatingActionButton.qml</file>
+        <file>FloatingActionButtons.qml</file>
+        <file>FloatingActionLabel.qml</file>
+        <file>FloatingActionMenu.qml</file>
+        <file>FloatingActionMenuButton.qml</file>
+        <file>menu.png</file>
+    </qresource>
+</RCC>

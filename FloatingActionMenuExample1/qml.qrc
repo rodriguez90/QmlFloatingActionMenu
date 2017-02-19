@@ -1,0 +1,11 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>add.png</file>
+        <file>delete.png</file>
+        <file>edit.png</file>
+        <file>cloud.png</file>
+        <file>volumeoff.png</file>
+        <file>volumeon.png</file>
+    </qresource>
+</RCC>

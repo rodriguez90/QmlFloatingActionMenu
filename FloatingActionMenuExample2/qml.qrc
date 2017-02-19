@@ -1,0 +1,16 @@
+<RCC>
+    <qresource prefix="/">
+        <file>qml/main.qml</file>
+        <file>image/add.png</file>
+        <file>image/check.png</file>
+        <file>image/cloud.png</file>
+        <file>image/clouddownload.png</file>
+        <file>image/cloudupload.png</file>
+        <file>image/delete.png</file>
+        <file>image/edit.png</file>
+        <file>image/settings.png</file>
+        <file>image/sphere.png</file>
+        <file>image/volumeoff.png</file>
+        <file>image/volumeon.png</file>
+    </qresource>
+</RCC>
